@@ -4,7 +4,7 @@ My name is Maxim Person, and as a software engineer, I strive to deepen my under
 
 The purpose of this software is to simulate a text-based Pokémon world where players can explore wild areas, encounter and capture Pokémon and build their own team. This game serves as a tool for reinforcing proper Java syntax, leveraging object-oriented principles, and practicing effective use of collections, all while offering an engaging and nostalgic experience.
 
-YOUTUBE VIDEO HERE
+[YOUTUBE VIDEO HERE](https://youtu.be/FTPfCxttRt8)
 
 # Development Environment
 
